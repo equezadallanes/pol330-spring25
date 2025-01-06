@@ -1,0 +1,25 @@
+---
+title: "Week 14: Latines in Recent Elections"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - Latines in Recent Elections
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 14
+
+-Fraga, Bernard L., Yamil R. Velez, and Emily A. West. 2024. "Reversion to the Mean, or Their Version of the Dream? Latino Voting in an Age of Populism." *American Political Science Review* 1–9. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Famerican-political-science-review%2Farticle%2Freversion-to-the-mean-or-their-version-of-the-dream-latino-voting-in-an-age-of-populism%2FD5FDF66C474541B3AABB4498BA59184C)
+
+
+
+### Wednesday, April 16
+
+- Pérez, Efrén, Ramona Alhambra, Joyce H. Nguy, Olivia Bielskis, Leila Chabane, Andrea Gudino, Cameron Katz, et al. 2024. "System Justification Drives Latino Support for Nativist Policies." *Group Processes & Intergroup Relations* 27(8): 1818–34. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F13684302241245383) {{< fa pen >}}
+
+
+

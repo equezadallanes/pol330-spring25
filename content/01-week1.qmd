@@ -1,0 +1,17 @@
+---
+title: "Week 1: Introduction"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction
+
+:::
+
+
+### Wednesday, January 15
+
+- [Syllabus](../index.qmd)
+
+- (read and listen:) Montanaro, Domenico, Elena Moore, Nick McMillan, Connie Hanzhang Jin, and Daniel Wood. 2024. "In this election, demographics did not determine how people voted." *All Things Considered*, November 22. [{{< fa link >}}](https://www.npr.org/2024/11/22/nx-s1-5199119/2024-election-exit-polls-demographics-black-latino-voters)
+

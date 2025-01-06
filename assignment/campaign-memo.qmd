@@ -1,0 +1,66 @@
+---
+title: "Campaign Memo"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 330 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+
+:::{.callout-important}
+
+## Deadline
+
+Final Draft Due February 21st at 11:59 pm on Canvas.
+
+We will do peer reviews at an earlier date.
+:::
+
+
+
+## Purpose
+
+This assignment will help you think critically about the role of Latine voters in American elections. Additionally, you will practice identifying key pieces of information to inform campaign strategy.
+
+
+## Task
+
+Write a 4- to 6-page memo for a 2026 Senate campaign (single-spaced, 12-point font, 1-inch margins) that focuses on Latine outreach. Imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for Latine outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the Latine population in their state and how this might impact any campaign messaging and/or mobilization efforts.
+
+Make sure to provide clear takeaways for your candidate and campaign. Think about three things you want the staff to remember and be able to execute. The information and analysis you present support those conclusions.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Describe the characteristics of the Latine population in the state.
+2. Provide an analysis of the potential for mobilizing these voters and how you would do this.
+3. Clearly define three takeaways for the campaign about how to reach out to Latine voters considering their proportion of the state population.
+4. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.^[I recommend you use software like Grammarly to have one less thing to worry about.]
+5. Reference at least two readings from class using hyperlinks. 
+
+Cite academic work in an appropriate tone for the audience. For example, I recommend not using the article's title or even mentioning the authors in the text. Instead, just say "researchers," "scholars," "political scientists," "sociologists," or use any other general terms. The full reference should be in the footnote, per Chicago style. 
+
+
+## Resources
+
+Here are some examples of campaign and political memos. These address various groups a campaign might target so it will be useful to look at them again. Use these examples to understand the genre and see how they are structured. Consider the following: What is important in these pieces of writing? How are those goals reflected in how the text is organized? How is it reflected in the tone of the piece?
+
+- [Memo for 2024 Trump campaign](https://cdn.nucleusfiles.com/f1/f1478561-1972-4c82-945f-e3afb0ddb38f/11.4-memo.pdf)
+- [Another 2024 Trump campaign memo](https://cdn.nucleusfiles.com/ad/ad9fb892-dfbd-4284-ac55-fc0c234456f5/10.31-memo.pdf)
+- [DCCC memo on abortion ballot initiatives](https://dccc.org/wp-content/uploads/2024/04/4.5.2024-Memo-Abortion-Ballot-Initiatives.pdf)
+- [Biden campaign memo example](https://www.wispolitics.com/2020/biden-campaign-memo)
+- [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
+- [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
+
+

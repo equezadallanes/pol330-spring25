@@ -1,0 +1,30 @@
+---
+title: "Weekly Summaries"
+---
+
+:::{.callout-important}
+Due at 2:00 pm the day the reading is assigned (submit on Canvas)
+:::
+
+## Purpose
+
+The goal of this assignment is twofold. First, it will help you practice reading with purpose to find the key pieces of information. Second, it will help you practice summarizing social scientific research.
+
+
+## Task
+
+Write a summary for the indicated reading in a given week. The summary must be no longer than three-quarters of a page (single-spaced, 12-point font, 1-inch margins). You must include the full citation above the summary paragraph(s). See [these examples](../resource/summaries.qmd)
+
+
+## Criteria for Success
+
+A successful summary will identify and communicate:
+
+1. The purpose of the piece
+2. The argument
+3. The type of evidence used to test the argument
+4. The main findings
+5. The implications of the findings for what we know about the topic more generally
+
+
+

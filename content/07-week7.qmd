@@ -1,0 +1,27 @@
+---
+title: "Week 7: Latine Participation"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 7 - Latine Participation
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, February 24
+
+- Fraga, Bernard L. 2016. "Candidates or Districts? Reevaluating the Role of Race in Voter Turnout." *American Journal of Political Science* 60(1): 97–122. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fajps.12172)
+
+
+
+
+### Wednesday, February 26
+
+- Velez, Yamil Ricardo, and Benjamin J. Newman. 2019. "Tuning In, Not Turning Out: Evaluating the Impact of Ethnic Television on Political Participation." *American Journal of Political Science* 63(4): 808–23. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fajps.12427) {{< fa pen >}}
+
+
+
+

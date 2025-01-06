@@ -1,0 +1,26 @@
+---
+title: "Week 2: Thinking Like a Political Scientist"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Thinking Like a Political Scientist
+
+:::
+
+
+### Monday, January 20
+
+NO CLASS. MLK Day.
+
+
+### Wednesday, January 22
+
+- Burke, Timothy. "How to Read in College." Blog post. [{{< fa link >}}](https://blogs.swarthmore.edu/burke/permanent-features-advice-on-academia/how-to-read-in-college/)
+
+- Hoover Green, Amelia. 2013. "How to Read Political Science: A Guide in Four Steps." [{{< fa file-pdf >}}](https://calgara.github.io/Pol157_Spring2019/howtoread.pdf)
+
+- Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 1. {{< fa file-pdf >}} available on Canvas.
+
+- Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 2: *only* sections 2.1-2.3 and 2.9. {{< fa file-pdf >}} available on Canvas.
+

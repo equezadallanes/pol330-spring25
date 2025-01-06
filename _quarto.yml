@@ -1,0 +1,97 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POL 330: Latine Politics in the U.S."
+  site-url: "https://pol330.spring25.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#633296"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      - text: "Content"
+        file: content/01-week1.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/weekly-summaries.qmd
+            - assignment/campaign-memo.qmd
+            - assignment/response-paper.qmd
+        - section: "Research Design Paper"
+          contents: 
+            - assignment/research-question.qmd
+            - assignment/literature-review.qmd
+            - assignment/research-design.qmd
+            - assignment/oral-presentation.qmd
+            - assignment/final-paper.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Overview"
+          contents:
+            - content/index.qmd
+        - section: "Weeks"
+          contents:
+            - content/01-week1.qmd
+            - content/02-week2.qmd
+            - content/03-week3.qmd
+            - content/04-week4.qmd
+            - content/05-week5.qmd
+            - content/06-week6.qmd
+            - content/06-week6.qmd
+            - content/07-week7.qmd
+            - content/08-week8.qmd
+            - content/11-week11.qmd
+            - content/12-week12.qmd
+            - content/13-week13.qmd
+            - content/14-week14.qmd
+            - content/15-week15.qmd
+            - content/16-week16.qmd
+            - content/17-week17.qmd
+            - content/18-week18.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "All"
+          contents: 
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/peer_review.qmd
+            - resource/summaries.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+            
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+
+filters:
+  - newpagelink.lua
+  
+resources: 
+  - CNAME

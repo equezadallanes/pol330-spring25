@@ -1,0 +1,28 @@
+author: Enrique Quezada-Llanes
+
+instructor:
+  name: Enrique Quezada-Llanes
+  name_no_title: Enrique Quezada-Llanes
+  email: equezada@agnesscott.edu
+  url: "https://www.equezadallanes.com"
+  twitter: oequezada
+  github: equezadallanes
+  office: "Buttrick Hall 315"
+  appointment_url: 
+
+course:
+  number: "POL 330"
+  semester: "Spring 2025"
+  days: "MW"
+  time: "2:00 – 3:15 PM"
+  location: "Buttrick Hall, Room 204"
+  dates: "January 14–May 14, 2025"
+  url: "https://pol330.spring25.equezadallanes.com/"
+
+university:
+  name: Agnes Scott College
+  url: "https://www.agnesscott.edu"
+
+school:
+  name: Department of Political Science
+  url: "https://www.agnesscott.edu/academics/majors-minors/political-science/index.html"

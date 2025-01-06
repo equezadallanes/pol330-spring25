@@ -1,0 +1,47 @@
+---
+title: "Response Paper"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POL 330 - Latine Politics in the U.S. \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadline
+
+Due on the Friday of the chosen week at 11:59 pm on Canvas
+:::
+
+
+
+## Purpose
+
+This assignment will help you think more deeply about a specific topic in Latine politics and make connections between different readings.
+
+
+## Task
+
+You will write a response paper (2 double-spaced pages, 12-point font) where you integrate the readings for a given topic. In the response paper, you will highlight the connections between the readings, write about their applicability to the role of Latines in American politics today, and offer a critique of the readings as a whole. You may choose to focus more on applicability to today or a critique of existing research. Make sure to strike a good balance between summarizing the readings and finding the connections between them.
+
+
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Briefly summarize each of the readings
+2. Highlight connections between readings
+3. Discuss how the readings apply to our understanding of Latine politics today
+4. Have a coherent structure and no grammar errors.
+
+
+

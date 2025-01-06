@@ -1,0 +1,23 @@
+---
+title: "Week 16: Catch-Up Week"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Catch-Up Week
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 28
+
+- We will discuss the research presentation
+
+
+### Wednesday, April 30
+
+- TBD
+
+

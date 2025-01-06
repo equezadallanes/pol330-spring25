@@ -1,0 +1,34 @@
+---
+title: "Week 12: The Politics of Immigration"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - The Politics of Immigration
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, March 31
+
+- PEW. 2015. "Chapter 1: The Nation's Immigration Laws, 1920 to Today." [report], September 28. [{{< fa link >}}](https://www.pewresearch.org/hispanic/2015/09/28/chapter-1-the-nations-immigration-laws-1920-to-today/)
+
+- PEW. 2024. "2. Immigration attitudes and the 2024 election." [report], June 6. [{{< fa link >}}](https://www.pewresearch.org/politics/2024/06/06/immigration-attitudes-and-the-2024-election/)
+
+- PEW. 2018. "Shifting Public Views on Legal Immigration Into the U.S." [report], June 28. [{{< fa link >}}](https://www.pewresearch.org/politics/2018/06/28/shifting-public-views-on-legal-immigration-into-the-u-s/)
+
+- Karma, Rogé. 2024. "The Most Dramatic Shift in U.S. Public Opinion." *The Atlantic*, October 9. [{{< fa link >}}](https://www.theatlantic.com/politics/archive/2024/10/immigration-public-opinion-reversal/680196/)
+
+- Hopkins, Daniel J., Yotam Margalit, and Omer Solodoch. 2024. "Personal Economic Shocks and Public Opposition to Unauthorized Immigration." British Journal of Political Science 54(3): 928–36. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fbritish-journal-of-political-science%2Farticle%2Fpersonal-economic-shocks-and-public-opposition-to-unauthorized-immigration%2F6E97F20DC97D4EB6587BCCD2B31DF3FF) {{< fa pen >}}
+
+
+
+### Wednesday, April 2
+
+- Pérez, Efrén O. 2015. "Xenophobic Rhetoric and Its Political Effects on Immigrants and Their Co-Ethnics." *American Journal of Political Science* 59(3): 549–64. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fajps.12131)
+
+
+
+

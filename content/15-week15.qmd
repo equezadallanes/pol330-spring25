@@ -1,0 +1,34 @@
+---
+title: "Week 15: Multiracial Coalitions?"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - Multiracial Coalitions?
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, April 21
+
+- Ostfeld, Mara Cecilia. 2019. "The New White Flight?: The Effects of Political Appeals to Latinos on White Democrats." *Political Behavior* 41(3): 561–82. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs11109-018-9462-8)
+
+- Gay, Claudine. 2006. "Seeing Difference: The Effect of Economic Disparity on Black Attitudes toward Latinos." *American Journal of Political Science* 50(4): 982–97. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1540-5907.2006.00228.x) {{< fa pen >}}
+
+
+
+### Wednesday, April 23
+
+- Pérez, Efrén, Crystal Robertson, and Bianca Vicuña. 2023. "Prejudiced When Climbing Up or When Falling Down? Why Some People of Color Express Anti-Black Racism." *American Political Science Review* 117(1): 168–83. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1017%2FS0003055422000545)
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Theory and research due](../assignment/research-question.qmd) due Friday, April 25, at 11:59pm on Canvas
+
+:::
+

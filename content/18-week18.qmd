@@ -1,0 +1,15 @@
+---
+title: "Week 18: Final Research Design Paper"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 18 - Final Research Design Paper
+
+:::
+
+
+The [final draft of the research design paper](../assignment/final-paper.qmd) is due:
+
+- May 13 at 5:00pm (for seniors)
+- May 14 at 5:00pm (for non-seniors)

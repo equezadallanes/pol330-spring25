@@ -1,0 +1,24 @@
+---
+title: "Week 5: Latine Partisanship and Opinion"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - Latine Partisanship and Opinion
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Monday, February 10
+
+- Alvarez, R. Michael, and Lisa García Bedolla. 2003. "The Foundations of Latino Voter Partisanship: Evidence from the 2000 Election." *The Journal of Politics* 65(1): 31–49. {{< fa file-pdf >}} available on Canvas {{< fa pen >}}
+
+- Krogstad, Jens M., Khadijah Edwards, and Mark H. Lopez. 2022. "Most Latinos Say Democrats Care About Them and Work Hard for Their Vote, Far Fewer Say So of GOP." PEW [report], September 29. [{{< fa link >}}](https://www.pewresearch.org/race-and-ethnicity/2022/09/29/most-latinos-say-democrats-care-about-them-and-work-hard-for-their-vote-far-fewer-say-so-of-gop/)
+
+
+### Wednesday, February 12
+
+- Wakefield, Derek. Forthcoming. "It's the Economy: The Effect of Economic Policy Appeals on Latino Independents." *Political Behavior.* ({{< fa pen >}} extra opportunity for summary)
+

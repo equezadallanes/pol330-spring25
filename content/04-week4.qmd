@@ -1,0 +1,33 @@
+---
+title: "Week 4: Politicized Indentities"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - Politicized Indentities
+
+:::
+
+
+
+### Monday, February 3
+
+- Zepeda-Millán, Chris, and Sophia J. Wallace. 2013. "Racialization in Times of Contention: How Social Movements Influence Latino Racial Identity." *Politics, Groups, and Identities* 1(4): 510–27. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2013.842492) {{< fa pen >}}
+
+
+- We will discuss the [campaign memo](../assignment/campaign-memo.qmd)
+
+
+
+### Wednesday, February 5
+
+- Sanchez, Gabriel, Natalie Masuoka, and Brooke Abrams. 2019. "Revisiting the Brown-Utility Heuristic: A Comparison of Latino Linked Fate in 2006 and 2016." *Politics, Groups, and Identities* 7(3): 673–83. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2019.1638803)
+
+- Garcia-Rios, Sergio, Francisco Pedraza, and Bryan Wilcox-Archuleta. 2019. "Direct and Indirect Xenophobic Attacks: Unpacking Portfolios of Identity." *Political Behavior* 41(3): 633–56. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs11109-018-9465-5)
+
+
+
+
+ 
+
+

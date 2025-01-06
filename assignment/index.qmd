@@ -1,0 +1,41 @@
+---
+title: "Assignments"
+---
+
+In this course, you will write weekly summaries, a response paper to a week's readings, a campaign strategy memo, and a research design paper. In addition, you will do an oral presentation of your research design. You can find more information about each assignment below and in their respective pages.
+
+
+## Weekly Summaries (20% of final grade)
+
+To receive full points, you will need to write seven (7) summaries throughout the course (the reading you can summarize has a {{< fa pen >}} after it in the course schedule). Since there are 10 opportunities to write a summary in the semester, you can skip three of them. It is up to you which weeks you decide to skip. The summary should not be longer than three-quarters of a page (single-spaced, 12-point font) and must include the full citation of the reading at the top of the page (see [these examples](../resource/summaries.html)). These summaries must be submitted via Canvas prior to class on the day for which the reading is assigned. No credit will be given for submissions after class has started.
+
+You can find a brief guide on how to write a summary [here](../resource/summaries.qmd).
+
+
+## Response Paper (10% of final grade)
+
+You will write a response paper (2 double-spaced pages, 12-point font) where you integrate the readings for a given week (which you will pick on the first day of class). In the response paper, you will highlight the connections between the readings, write about their applicability to the role of Latines in American politics today, and offer a critique of the readings as a whole. You may choose to focus more on applicability to today or a critique of existing research. The response paper is due on the Friday of the chosen week.
+
+
+
+## Campaign Strategy Memo (15% of final grade)
+
+You will write a campaign strategy memo (4-6 pages, single-spaced) for a Senate race for the 2026 election cycle that focuses on Latine outreach. The memo must provide sufficient background, provide clear takeaways, and propose strategies for a political campaign to appeal to Latines in the state. The audience for this paper is a political campaign staff.^[Papers must be submitted via Canvas. Late submissions will be penalized with one point off for each 24-hour period after the due date.]
+
+
+## Oral Research Presentation (10% of final grade)
+
+You will do a conference-style presentation of your research design paper toward the end of the course. You will receive feedback on your research design and give feedback on the research design of other students in the course.
+
+
+## Research Design Paper (25% of final grade)
+
+The research design paper is the final paper for the course. A research design paper is what we might call the "front end" of a paper. It includes the research question, the motivation, a literature review, the theory, and a strategy for how you would answer the question (i.e., the research design). While you have to specify what kind of data you would collect and how you might analyze it, you do not have to collect or analyze the data. The paper must be at least 8 pages and not more than 12 pages (double-spaced, 12-point font, 1-inch margins).
+
+Since this is a major paper, and maybe the first time you write a paper like this, we will break down the paper into separate components as follows:
+
+1. [Research question and list of literature](research-question.qmd) (5% of final grade)
+2. [Literature review](literature-review.qmd) (5% of final grade)
+3. [Theory and research design](research-design.qmd) (5% of final grade)
+4. [Full research design paper](final-paper.qmd) (10% of final grade)
+
