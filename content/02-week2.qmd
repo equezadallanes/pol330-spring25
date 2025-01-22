@@ -24,3 +24,11 @@ NO CLASS. MLK Day.
 
 - Lave, Charles A., and James G. March. 1993. *An Introduction to Models in the Social Sciences.* Lanham, MD: University Press of America. Chapter 2: *only* sections 2.1-2.3 and 2.9. {{< fa file-pdf >}} available on Canvas.
 
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Slides </span></p>](https://agnesscott.instructure.com/files/808849/)
+
+:::
+
