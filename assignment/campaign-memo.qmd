@@ -62,5 +62,6 @@ Here are some examples of campaign and political memos. These address various gr
 - [Biden campaign memo example](https://www.wispolitics.com/2020/biden-campaign-memo)
 - [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
 - [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
+- [Student example from previous class](https://agnesscott.instructure.com/files/813987/)
 
 
