@@ -1,10 +1,10 @@
 ---
-title: "Week 14: Latines in Recent Elections"
+title: "Week 14: Representation"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 14 - Latines in Recent Elections
+## Week 14 - Representation
 
 :::
 
@@ -13,13 +13,21 @@ title: "Week 14: Latines in Recent Elections"
 
 ### Monday, April 14
 
-- Fraga, Bernard L., Yamil R. Velez, and Emily A. West. 2024. "Reversion to the Mean, or Their Version of the Dream? Latino Voting in an Age of Populism." *American Political Science Review* 1–9. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Famerican-political-science-review%2Farticle%2Freversion-to-the-mean-or-their-version-of-the-dream-latino-voting-in-an-age-of-populism%2FD5FDF66C474541B3AABB4498BA59184C)
+- Wallace, Sophia J. 2014. "Representing Latinos: Examining Descriptive and Substantive Representation in Congress." *Political Research Quarterly* 67(4): 917–29. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912914541795) {{< fa pen >}}
+
+- Garcia-Navarro, Lulu. 2025. "Senator Ruben Gallego Wants Democrats To Be Less Afraid." *The Interview* [podcast], February 15. [{{< fa podcast >}}](https://youtu.be/85qWjka-Bmg?si=5nawDK20LMG6fjXm)
 
 
 
 ### Wednesday, April 16
 
-- Pérez, Efrén, Ramona Alhambra, Joyce H. Nguy, Olivia Bielskis, Leila Chabane, Andrea Gudino, Cameron Katz, et al. 2024. "System Justification Drives Latino Support for Nativist Policies." *Group Processes & Intergroup Relations* 27(8): 1818–34. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F13684302241245383) {{< fa pen >}}
+- Ocampo, Angela X., and John Ray. 2020. "Many Are Called but Few Are Chosen: The Emergence of Latino Congressional Candidates." *Politics, Groups, and Identities* 8(4): 738–61. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2019.1629968)
 
 
+:::{.callout-important}
 
+### Deadline
+
+[Literature review due](../assignment/literature-review.qmd) due Friday, April 18, at 11:59pm on Canvas
+
+:::

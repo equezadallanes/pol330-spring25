@@ -1,10 +1,10 @@
 ---
-title: "Week 13: Representation"
+title: "Week 13: The Politics of Immigration"
 ---
 
 ::: {.content-visible when-format="pdf"}
 
-## Week 13 - Representation
+## Week 13 - The Politics of Immigration
 
 :::
 
@@ -13,22 +13,20 @@ title: "Week 13: Representation"
 
 ### Monday, April 7
 
-- Wallace, Sophia J. 2014. "Representing Latinos: Examining Descriptive and Substantive Representation in Congress." *Political Research Quarterly* 67(4): 917–29. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1065912914541795) {{< fa pen >}}
+- PEW. 2015. "Chapter 1: The Nation's Immigration Laws, 1920 to Today." [report], September 28. [{{< fa link >}}](https://www.pewresearch.org/hispanic/2015/09/28/chapter-1-the-nations-immigration-laws-1920-to-today/)
 
-- Garcia-Navarro, Lulu. 2025. "Senator Ruben Gallego Wants Democrats To Be Less Afraid." *The Interview* [podcast], February 15. [{{< fa podcast >}}](https://youtu.be/85qWjka-Bmg?si=5nawDK20LMG6fjXm)
+- PEW. 2024. "2. Immigration attitudes and the 2024 election." [report], June 6. [{{< fa link >}}](https://www.pewresearch.org/politics/2024/06/06/immigration-attitudes-and-the-2024-election/)
 
+- PEW. 2018. "Shifting Public Views on Legal Immigration Into the U.S." [report], June 28. [{{< fa link >}}](https://www.pewresearch.org/politics/2018/06/28/shifting-public-views-on-legal-immigration-into-the-u-s/)
+
+- Karma, Rogé. 2024. "The Most Dramatic Shift in U.S. Public Opinion." *The Atlantic*, October 9. [{{< fa link >}}](https://www.theatlantic.com/politics/archive/2024/10/immigration-public-opinion-reversal/680196/)
+
+- Hopkins, Daniel J., Yotam Margalit, and Omer Solodoch. 2024. "Personal Economic Shocks and Public Opposition to Unauthorized Immigration." British Journal of Political Science 54(3): 928–36. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fbritish-journal-of-political-science%2Farticle%2Fpersonal-economic-shocks-and-public-opposition-to-unauthorized-immigration%2F6E97F20DC97D4EB6587BCCD2B31DF3FF) {{< fa pen >}}
 
 
 ### Wednesday, April 9
 
-- Ocampo, Angela X., and John Ray. 2020. "Many Are Called but Few Are Chosen: The Emergence of Latino Congressional Candidates." *Politics, Groups, and Identities* 8(4): 738–61. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2019.1629968)
+- Pérez, Efrén O. 2015. "Xenophobic Rhetoric and Its Political Effects on Immigrants and Their Co-Ethnics." *American Journal of Political Science* 59(3): 549–64. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fajps.12131)
 
 
 
-:::{.callout-important}
-
-### Deadline
-
-[Literature review due](../assignment/literature-review.qmd) due Friday, April 11, at 11:59pm on Canvas
-
-:::
