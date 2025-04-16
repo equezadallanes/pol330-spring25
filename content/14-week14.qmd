@@ -24,6 +24,17 @@ title: "Week 14: Representation"
 - Ocampo, Angela X., and John Ray. 2020. "Many Are Called but Few Are Chosen: The Emergence of Latino Congressional Candidates." *Politics, Groups, and Identities* 8(4): 738–61. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1080%2F21565503.2019.1629968)
 
 
+::: {.content-visible when-format="html"}
+
+#### For class
+
+- Phan, Juliana. 2024. "10 Facts About Latino Representation in Congress." UCLA Latino Policy & Politics Institute. Report, October 28. [{{< fa link >}}](https://latino.ucla.edu/research/latino-representation-in-congress/)
+
+:::
+
+
+
+
 :::{.callout-important}
 
 ### Deadline
