@@ -56,3 +56,24 @@ Additionally, pay attention to the following:
 - Include a properly formatted reference page using APSA style.
 - Proofread your paper so that there are no grammatical or punctuation mistakes. This includes capitalization and placement of quotation marks after punctuation. In case of doubt, use Google and the resources in the ["Writing" section](../resource/writing.qmd) of this website. I encourage you to use [Grammarly](https://www.grammarly.com/) as well.
 
+
+## Writing an Introduction
+
+The introduction should do all the following:
+
+1. Motivate the paper (make the reader care, maybe use an example)
+2. Establish the purpose of the paper (you can use the research question)
+3. What do other authors say about this (what do we know)
+4. Identify the gap (what don't we know yet)
+5. What you argue
+6. Your method
+7. Main findings (you don't need this for this paper)
+8. Implications
+
+Since your paper is relatively short, your introduction will be one or two paragraphs. Spend one sentence (max. 2) for each of the points above.
+
+
+## Writing a Conclusion
+
+You conclusion should first reiterate the purpose of the paper and the methodology. Then you should discuss the limitations of your research design and the implications of your theory if you were to find supportive evidence for your hypotheses.
+
